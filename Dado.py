@@ -34,9 +34,9 @@ def Minijuego_del_dado():
     print("Victorias del NPC: {}".format(NPC))
     
     if Jugador > NPC:
-        print("Le ganaste a un NPC (has tenido suerte no te ilusiones)")
+        print("Le ganaste a un NPC, toma un poco de carbón como premio (has tenido suerte no te ilusiones)")
     elif Jugador < NPC:
-        print("Un NPC te ganó???? X puta D")
+        print("Un NPC te ganó???? XD")
     else:
-        print("Has empatado con un NPC (Ya me jodería)")
+        print("Has empatado con un NPC (no tiene por qué ser algo bueno)")
 
