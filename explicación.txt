@@ -1,0 +1,3 @@
+Para que todo funcione solo te vas al programa principal "Projecte_final.py" y ,lo ejecutas
+todo debería de funcionar sin ningun problema, una excepción es el juego, que cuando acaba la partida
+y quieres volver a ejecutar el juego dará error, tienes que volver a ejecutar el programa principal.
